@@ -10,7 +10,7 @@ Follow these steps to run the project on your local machine:
 2. Navigate to the project directory and start a local server:
 ```bash
 cd the-sea
-npx serve
+npx vite
 ```
 3. Open the generated link from your terminal in your browser.
 
