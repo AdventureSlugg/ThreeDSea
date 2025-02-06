@@ -1,6 +1,6 @@
 import * as THREE from 'three';
 
-interface ThreeDObject {
+export interface ThreeDObject {
 	/**
 	 * Defines the size of the 3D object in width, height, and depth.
 	 */
